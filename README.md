@@ -6,7 +6,7 @@ Base on that, I just attached Migration code files that have not been included o
 
 - Screen
 
-    ![screen](screen-shot.png "screenshot")
+    ![screen](screen-shot.PNG "screenshot")
 
 - Course Video
 
